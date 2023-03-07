@@ -1,0 +1,11 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/api/stripe": "pages/api/stripe.js",
+  "/success": "pages/success.html",
+  "/": "pages/index.js",
+  "/category/[slug]": "pages/category/[slug].js",
+  "/product/[slug]": "pages/product/[slug].js",
+  "/404": "pages/404.html"
+}
